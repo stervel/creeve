@@ -1,4 +1,4 @@
-#Creeve documentation
+# Creeve documentation
 
 This repo contains most of thing I made about Creeve project, an a priori constructed language. After tedious sorting of workflow (and yet still not fully great at all) I decided to give git a try, which helps me to keeps logs and version history as opposed with the traditional way of making local history-thing.
 
