@@ -40,13 +40,20 @@
 \newcommand{\domargin}[1]{%
   \hspace*{-\MarginLength}\makebox[0pt][r]{#1}\hspace*{\MarginLength}}
 
-\newcommand{\defun}[3]{%
-  \subsubsection*{Synopsis}\domargin{1}%
+\newcommand{\bagsatu}[3]{%
+  \subsubsection*{Test 1}\domargin{1}%
   #1%
-  \subsubsection*{Desciption}\domargin{2}%
+  \subsubsection*{Test 2}\domargin{2}%
   #2%
-  \subsubsection*{Returns}\domargin{3}%
+  \subsubsection*{Test Tri}\domargin{3}%
   #3%
+}
+
+\newcommand{\bagdua}[2]{%
+    \subsection*{Maleve}\domargin{1}%
+    #1%
+    \subsection*{Volent}\domargin{1}%
+    #2%
 }
 
 \newcommand{\npar}[1][-10pt]{
@@ -116,4 +123,6 @@
 
 \begin{document}
 \input{1.tex}
+\newpage
+\input{2.tex}
 \end{document}
