@@ -33,28 +33,8 @@
 \definecolor{note}{RGB}{0,85,34}
 
 %SECTIONING
-\newlength{\MarginLength}
-\setlength{\MarginLength}{\labelwidth}
-\addtolength{\MarginLength}{\labelsep}
-
-\newcommand{\domargin}[1]{%
-  \hspace*{-\MarginLength}\makebox[0pt][r]{#1}\hspace*{\MarginLength}}
-
-\newcommand{\bagsatu}[3]{%
-  \subsubsection*{Test 1}\domargin{1}%
-  #1%
-  \subsubsection*{Test 2}\domargin{2}%
-  #2%
-  \subsubsection*{Test Tri}\domargin{3}%
-  #3%
-}
-
-\newcommand{\bagdua}[2]{%
-    \subsection*{Maleve}\domargin{1}%
-    #1%
-    \subsection*{Volent}\domargin{1}%
-    #2%
-}
+\titleformat{\section}
+  {\normalfont\scshape}{\thesection}{1em}{}
 
 \newcommand{\npar}[1][-10pt]{
     \ifvmode\else\par\fi{
