@@ -1,4 +1,4 @@
-# Phonology - Consonants
+# Phonology
 
 ## Phonemic Inventory
 
@@ -16,7 +16,7 @@ Below are shown all consonants in Creeve, phonemes with parentheses indicate all
 
 Creeve phones tends to interact with each other through a dynamic and complex manner, thus there are some allophony and sound changes found. Special rules govern phones to fuse or integrate.
 
-The alveolar consonants, which populate most of the inventory, is pronounced mostly laminal or denti-alveolar. Exceptions for liquids are pronounced apical. Continuants `/T D/` is pronounced rather non-sibilant and not interdental and become `/_s _z/` respectively. Voiceless alveolar plosive never exist as coda and all polsive always unaspirated. In addition, palatal consonants `/J j/` tend to shift to prepalatal. Also, velar consonants are slightly fronted.
+The alveolar consonants, which populate most of the inventory, is pronounced mostly laminal or denti-alveolar. Exceptions for liquids are pronounced apical. Continuants `/T D/` is pronounced rather non-sibilant and not interdental and become `/_ds _dz/` respectively. Voiceless alveolar plosive never exist as coda and all polsive always unaspirated. In addition, palatal consonants `/J j/` tend to shift to prepalatal. Also, velar consonants are slightly fronted.
 
 The fricatives `/f J/` are always have more friction than the rest. The rhotic `/r/` is a trill, but can be lenited as flapped `/4/`, especially when positioned as intervocalic consonant.
 
